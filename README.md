@@ -1,2 +1,3 @@
 # python-introduction-yh2866
-python-introduction-yh2866 created by GitHub Classroom
+###Homework1 Lessons:
+Coefficiet / Liear Regression / RMSE(root-mean-square error) / R^2 / Standarized Coefficients / Non-linear Model / Decision Tree / Gradient Descent / Learning Rate
